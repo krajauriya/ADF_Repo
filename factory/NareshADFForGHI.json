@@ -1,0 +1,9 @@
+{
+	"name": "NareshADFForGHI",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "23b03108-5ba7-4c87-b658-e1312cd7b660",
+		"tenantId": "e840acaf-1539-4ead-97bc-759dbb16de99"
+	}
+}
